@@ -1,0 +1,17 @@
+﻿XENSIV Sensor Shield
+OOB Demo
+Press the USER Button SW2
+to switch the sensor
+BGT60LTR11AIP: Radar  Sensor
+SHT35: Humidity & Temperature
+(%RH)                 (°C)
+BMI270: Motion Sensor 
+Orientation:
+BMM350: Magnetometer  Sensor
+Mag_X (uT) :
+Mag_Y (uT) :
+Mag_Z (uT) :
+DPS368: Pressure Sensor
+Pressure:
+Temperature:
+XENSIV PAS CO2 5V  Sensor
